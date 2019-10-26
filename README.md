@@ -13,4 +13,4 @@ api_id = "your_api_key"
     - Pressure
     - Humidity
     - Wind Speed
-(Note: you can also add additional weather information)
+> (Note: you can also add additional weather information)
