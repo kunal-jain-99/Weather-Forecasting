@@ -35,7 +35,7 @@ if data["cod"] != 404:
 
 	#get the temperature rating
 	temp = main["temp"]
-	print(f"Temperature: {int(temp-273.15)}°C")	#converting temperature from kelvin to celcius
+	print(f"Temperature: {int(temp-273.15)}°C")		#converting temperature from kelvin to celcius
 
 	#get the pressure rating
 	pressure = main["pressure"]
